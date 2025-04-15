@@ -1,0 +1,18 @@
+# ninja log v6
+12	2836	1744743597659492077	CMakeFiles/untitled4.dir/main.cpp.o	d178ffb36e57af39
+2	682	1744742691991804175	CMakeFiles/untitled4.dir/AStar.cpp.o	506fa033d7024ac6
+2	682	1744742691991491136	CMakeFiles/untitled4.dir/Dijkstra.cpp.o	a1696bc9ac6da9ab
+722	872	1744742826382452181	untitled4	4cfa131e2f8519a7
+1	687	1744742691990995640	CMakeFiles/untitled4.dir/Graph.cpp.o	d09ac78557af1c3
+8	348	1744744214899771957	CMakeFiles/untitled4.dir/Heuristic.cpp.o	9b805b107cade419
+8	787	1744744214899124412	CMakeFiles/untitled4.dir/main.cpp.o	d178ffb36e57af39
+787	964	1744744215678143185	untitled4	6b96dc9ae4a89a0f
+8	899	1744744605362433995	CMakeFiles/untitled4.dir/main.cpp.o	d178ffb36e57af39
+7	831	1744744951936427920	CMakeFiles/untitled4.dir/main.cpp.o	d178ffb36e57af39
+8	594	1744745660724067647	CMakeFiles/untitled4.dir/Heuristic.cpp.o	9b805b107cade419
+8	759	1744745660723232850	CMakeFiles/untitled4.dir/main.cpp.o	d178ffb36e57af39
+8	764	1744745660723660477	CMakeFiles/untitled4.dir/Graph.cpp.o	d09ac78557af1c3
+8	767	1744745660723829395	CMakeFiles/untitled4.dir/Dijkstra.cpp.o	a1696bc9ac6da9ab
+7	710	1744745715021946668	CMakeFiles/untitled4.dir/AStar.cpp.o	506fa033d7024ac6
+7	584	1744745760969628871	CMakeFiles/untitled4.dir/AStar.cpp.o	506fa033d7024ac6
+584	723	1744745761547038723	untitled4	6b96dc9ae4a89a0f
