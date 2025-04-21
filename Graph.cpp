@@ -32,3 +32,19 @@ Node Graph::getRandomNode() {
     std::advance(it, rand() % adjList.size());
     return it->first;
 }
+
+Node Graph::findClosestNode(float x, float y) const {
+    Node closest;
+    double minDist = 1e9;
+
+    for (const auto& pair : adjList) {
+        const Node& node = pair.first;
+        double dist = std::hypot(node.x - x, node.y - y);
+        if (dist < minDist) {
+            minDist = dist;
+            closest = node;
+        }
+    }
+
+    return closest;  // always return closest, no threshold
+}
