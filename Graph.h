@@ -16,6 +16,7 @@ public:
     std::unordered_map<Node, std::vector<Edge>, NodeHash> adjList;
     void loadFromCSV(const std::string& filename);
     Node getRandomNode();
+    Node findClosestNode(float x, float y) const;
 };
 
 #endif // GRAPH_H
